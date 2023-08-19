@@ -17,6 +17,17 @@
 
 - 📫 How to reach me **Email me or linkedin**
 
+<h3 align="left">Summary:</h3>
+<p align="left">
+Aspiring data professional with a strong foundation in data analysis and a passion for extracting meaningful 
+insights from complex datasets. Seeking to leverage my analytical skills, programming proficiency, and statistical 
+knowledge to transition from a Data Analyst role to a Data Scientist position. Eager to contribute my expertise in 
+data manipulation, predictive modeling, and machine learning to develop innovative solutions that drive business 
+growth and enhance decision-making processes. Committed to continuous learning and professional development 
+to excel in the dynamic field of data science.
+
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hariprasath03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariprasath03" height="30" width="40" /></a>
