@@ -42,9 +42,4 @@ to excel in the dynamic field of data science.
 
 
 
-<h3 align="left">Data analysis tools:</h3>
-1.Mircosoft Excel<br>
-2.Power BI <br>
-3.SQL <br>
-4.Tableau<br>
-5.Python<br>
+<h2 style="text-align: left;">Data analysis Tools</h2><div><ol style="text-align: left;"><li>Microsoft Excel</li><li>Power BI</li><li>SQL</li><li>Tableau</li><li>Python.</li></ol></div><h2 style="text-align: left;">Certification</h2><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumWWgQA2zWzr65PlpJkdJWkKHgNK4_jyxtGkLpki5aiDXfQukC5o1vP9MhiiRwZPyAUvRZUXqdCcPVz3P06U6RTIgEQDRBgS_yvDYRFJyGjKfnb5qjwe2IpuNATp-3qHs6GL3GyMIai1DF5vf9ou_IdOYBfuY10t4DxQDjtvithNnG4zA3h7otygcxUM/s3300/CertificateOfCompletion_Become%20a%20Data%20Analyst.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2550" data-original-width="3300" height="494" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumWWgQA2zWzr65PlpJkdJWkKHgNK4_jyxtGkLpki5aiDXfQukC5o1vP9MhiiRwZPyAUvRZUXqdCcPVz3P06U6RTIgEQDRBgS_yvDYRFJyGjKfnb5qjwe2IpuNATp-3qHs6GL3GyMIai1DF5vf9ou_IdOYBfuY10t4DxQDjtvithNnG4zA3h7otygcxUM/w640-h494/CertificateOfCompletion_Become%20a%20Data%20Analyst.png" width="640" /></a></div><br /><div><br /></div><p><br /></p><p><br /></p><p><br /></p>
